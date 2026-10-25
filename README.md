@@ -19,7 +19,9 @@ I'm currently seeking **fully remote opportunities** in full-stack and web devel
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel" />
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B5?style=for-the-badge&logo=googlegemini&logoColor=white" height="40" />
 </p>
